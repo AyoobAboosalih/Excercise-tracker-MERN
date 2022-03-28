@@ -6,7 +6,3 @@
 
 ![image](https://user-images.githubusercontent.com/58284251/79073521-bf3cde80-7d04-11ea-957a-eaa8a9b0b5cc.png)
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
